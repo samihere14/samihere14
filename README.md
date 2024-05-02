@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samihere14
+- 👋 Hi, I’m Muhammad Sami.
 - 👀 I’m interested in Web Development, Python and C Language.
 - 🌱 I’m currently learning Full Stack Web and Mobile Development at Jawan Pakistan.
 - 📫 How to reach me LinkedIn :- https://www.linkedin.com/in/sami-rajput19
